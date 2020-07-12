@@ -12,7 +12,7 @@ cd tinydeal-scrapy
 pip3 install virtualenv
 virtualenv .env
 source .env/bin/activate
-cd national_debt
+cd tinydeal/tinydeal
 pip install -r requirements.txt
 ```
 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Choose one of the commands below to get the results in the desired format
 
 ```bash
-scrapy crawl countries -o world_population.csv
-scrapy crawl countries -o world_population.json
-scrapy crawl countries -o world_population.xml
+scrapy crawl special_offers -o special_offers.csv
+scrapy crawl special_offers -o special_offers.json
+scrapy crawl special_offers -o special_offers.xml
 ```
