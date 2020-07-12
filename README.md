@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install some pa
 
 ```bash
 git clone git@github.com:sustiono/tinydeal-scrapy.git
-cd world-population-scrapy
+cd tinydeal-scrapy
 pip3 install virtualenv
 virtualenv .env
 source .env/bin/activate
