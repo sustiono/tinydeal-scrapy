@@ -1,6 +1,6 @@
 # Special Offers TinyDeal Scrapy
 
-Scrap Special Offer Products from https://www.tinydeal.com/specials.html using Scrapy
+Scrap Special Offer Products from https://www.cigabuy.com/specials.html using Scrapy, from the previous url https://www.tinydeal.com/specials.html
 
 ## Installation
 
